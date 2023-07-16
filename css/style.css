@@ -1,0 +1,23 @@
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  font-size: 400%;
+
+}
+h3 {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.Quotefont {
+
+ font-size: 130%;
+ font-style: oblique;
+ font-weight: bold;
+ font-family: 'Lugrasimo', cursive;
+ 
+
+}
+
+button:hover {
+  background-color: black !important;
+}
